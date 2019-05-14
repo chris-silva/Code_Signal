@@ -30,7 +30,7 @@ class traverseTree
 	public static void main(String[] args)
 	{
 		/*
-			 1
+	             1
 		  /    \
 		 2      4 
 		  \    /
